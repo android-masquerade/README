@@ -14,7 +14,7 @@ No, I (@gfx) believe the @maskarade repos are alive. The organization is created
 
 Yes, if the repo is worth maintained and you'll find a new owner.
 
-But note that it deosn't mean the @maskarade members maintain your repos. You should find new owners for the repos by yourself.
+Note that it deosn't mean the @maskarade members maintain your repos. You should find new owners for the repos by yourself.
 
 # The Organizer
 
