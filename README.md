@@ -6,7 +6,7 @@ Now it is to maintain Open Source Software with contributor teams, not only for 
 
 # FAQ
 
-## The repos in @maskarade is abandoned?
+## The repos in @maskarade are abandoned?
 
 No, I (@gfx) believe the @maskarade repos are alive. The organization is created in order to give new lives to OSS.
 
