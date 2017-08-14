@@ -4,6 +4,8 @@ This project starts from the idea that there are @gfx's Android projects that ar
 
 Now it is to maintain Open Source Software with contributor teams, not only for those what are created by @gfx.
 
+# FAQ
+
 ## The repos in @maskarade is abandoned?
 
 No, I (@gfx) believe the @maskarade repos are alive. The organization is created in order to give new lives to OSS.
